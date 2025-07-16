@@ -15,6 +15,10 @@
     <packaging>pom</packaging>
     <modules>
         <module>customer-service</module>
+        <module>invintory-service</module>
+        <module>billing-service</module>
+        <module>getway</module>
+        <module>discovery-service</module>
     </modules>
 
     <properties>
